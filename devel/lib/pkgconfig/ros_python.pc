@@ -1,0 +1,8 @@
+prefix=/home/julio/catkin_ws/devel
+
+Name: ros_python
+Description: Description of ros_python
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/julio/catkin_ws/devel/lib 
+Requires: 
